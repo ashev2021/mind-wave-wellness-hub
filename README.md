@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Mind Wave App
 
 ## Project info
 
